@@ -1,7 +1,8 @@
 Présentation
 
 Notre projet est de créer une machine à écrire également connue sous le nom de traceur 2D.
-Cette machine peut être utilisée avec n'importe quel stylo, crayon ou autre outil de dessin pour écrire sur un papier ou n'importe quel cahier pour des travaux tels que le dessin, le croquis, la caligraphie, l'art, etc.
+Cette machine peut être utilisée avec n'importe quel stylo, crayon ou autre outil de dessin pour écrire sur un papier ou n'importe quel cahier pour des travaux tels 
+que le dessin, le croquis, la caligraphie, l'art, etc.
 
 
 Objectif
@@ -27,7 +28,5 @@ Objectif
 Description des besoins
 
 En ce qui concerne la maquette, on nécessitera d'une planche de bois qu'on se chargera de reconcevoir ensuite.
-De plus, notre projet nécessitera d'une carte arduino, de 4 moteurs pas à pas permettant de contrôler la direction/sens du stylo et enfin d'un servo moteur SG90 permettant la levée/descente du stylo.
-
-
-
+De plus, notre projet nécessitera d'une carte arduino, de 4 moteurs pas à pas permettant de contrôler la direction/sens du stylo et enfin d'un servo moteur
+SG90 permettant la levée/descente du stylo.
