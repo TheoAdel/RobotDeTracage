@@ -19,7 +19,7 @@ Ensuite, suite à l'intervention du professeur, certains outils nécessaire à n
 - Adel: 
   J'ai donc commencé à utiliser le servo moteur SG90 et réflechir à comment nous allons parvenir à réaliser la montée/descente du stylo. C'est pourquoi j'ai réalisé le     code ci-dessous afin de comprendre cela. J'ai reussi à faire pivoter l'engrenage de 0 à 90° et j'en ai conclus qu'à l'aide d'une condition que j'integrerai dans mon     programme, je pourrais ainsi dire à mon programme: "Tant que j'écris, baisse-toi ; sinon lève-toi".
 
-  Lien du code: 
+  Lien du code: https://textup.fr/663501Nk
   Lien de la vidéo: https://app.videas.fr/v/80e9fb72-8e0e-4ea4-8b77-5539bf2d01bf/
 
 - Théo: Après l'intervention du professeur nous avons compris qu'utiliser 4 moteurs serait plus simple. En revanche pour les roulettes nous sommes encore en pleine réfléxion car l'idée d'utiliser trois roulettes en trépiés ne nous plait guère (cela pour laisser des traces sur la feuille). Nous avons imaginé la réalisation du mécanisme pour monter et descendre le stylo, il ne nous reste plus qu'à le fabriquer.
