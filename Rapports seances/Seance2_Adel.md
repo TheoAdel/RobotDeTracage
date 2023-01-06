@@ -18,3 +18,24 @@ Pour ce qui concerne le pignon avec détrompage on le fera en bois et la cremali
 Voici un exemple en vidéo d’une fraction :
 
 [c29bc262-8ae7-4f29-bbe5-160f978ebead.webm](https://user-images.githubusercontent.com/120515708/211031819-9767095c-4b0d-47a9-8b00-8cf071057b82.webm)
+
+J'ai donc fractionner le fichier axe_x en 3 fichiers ressemblant à cela:
+
+![image](https://user-images.githubusercontent.com/120515708/211032807-345adad2-079c-4d12-a980-51124549d214.png)
+![image](https://user-images.githubusercontent.com/120515708/211032986-db70b915-a4b4-4111-ba4f-16d702535418.png)
+![image](https://user-images.githubusercontent.com/120515708/211033082-e4662389-9da7-441b-90bf-b70c10fa4767.png)
+
+Afin d'obtenir cela: 
+
+![image](https://user-images.githubusercontent.com/120515708/211035248-64aa8adc-ef7b-40ef-8dc5-e9de1ae6ab13.png)
+
+Et ensuite,
+Le fichier axe_y en 3 fichiers ressemblant à cela:
+
+![image](https://user-images.githubusercontent.com/120515708/211034629-0c70d6d8-7626-4fa4-8372-075b79d138b3.png)
+![image](https://user-images.githubusercontent.com/120515708/211034733-5556123a-26d2-4cb0-9c38-632410feb961.png)
+![image](https://user-images.githubusercontent.com/120515708/211034909-baa829d8-e779-44c6-972d-6908b9d66b2c.png)
+
+Afin d'obtenir cela:
+
+![image](https://user-images.githubusercontent.com/120515708/211035370-aab2523b-fced-4b03-bb25-4de0da16ef86.png)
