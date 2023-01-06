@@ -3,7 +3,6 @@ J’ai donc refait un schéma pour mettre sur papier le mécanisme (mettre le sc
 Ensuite je me suis concentré sur la réalisation du système permettant de faire descendre et remonter le stylo. J’ai donc fait un schéma à main levée du mécanisme puis j’ai demandé le matériel pour mettre en œuvre le mécanisme. 
  
 ![alt text](https://user-images.githubusercontent.com/120515708/20230106_145101.png)
-![alt text](https://user-images.githubusercontent.com/120515708/211031519-91533013-346e-4b17-9435-a72bcb37b3e4.png)
  
 Nous avons ensuite testé le système avec le servo moteur. Nous avons constaté que ça fonctionnait mais qu’il fallait stabiliser le système afin que son utilisation soit optimale.
 Nous avons également récupéré les pièces d’impression 3D dans la description de la vidéo et nous avons réfléchis à la façon dont nous pourrions imprimer ces pièces. Il nous a fallu redécouper les pièces et analyser les dimensions afin de les adapter à notre projet.
