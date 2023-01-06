@@ -1,0 +1,9 @@
+Cette semaine a marqué une étape importante dans la conception de notre projet. Suite aux remarques que vous nous avez faites nous avons repensé le système. A la place du système de poulie nous allons faire un axe x et un axe y comme dans la vidéo qui nous avez inspiré. https://www.youtube.com/watch?v=VLkdBk6qtRc
+J’ai donc refait un schéma pour mettre sur papier le mécanisme (mettre le schema)
+Ensuite je me suis concentré sur la réalisation du système permettant de faire descendre et remonter le stylo. J’ai donc fait un schéma à main levée du mécanisme puis j’ai demandé le matériel pour mettre en œuvre le mécanisme. 
+ 
+ 
+ 
+Nous avons ensuite testé le système avec le servo moteur. Nous avons constaté que ça fonctionnait mais qu’il fallait stabiliser le système afin que son utilisation soit optimale.
+Nous avons également récupéré les pièces d’impression 3D dans la description de la vidéo et nous avons réfléchis à la façon dont nous pourrions imprimer ces pièces. Il nous a fallu redécouper les pièces et analyser les dimensions afin de les adapter à notre projet.
+
