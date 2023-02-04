@@ -1,4 +1,4 @@
-Cette semaine j'ai assemblé les axes Y et X avec les moteurs 5V. Ainsi les moteurs entrainent les modules le long des axes.
-photo
-Ensuite je me suis rendu compte que le système que nous avions pensé pour abaisser le stylo n'était pas optimal. Je suis donc allé refaire des recherches sur internet, notamment sur la vidéo dont nous nous étions inspiré pour les pieces des axes. 
-J'ai retrouvé les pièces à imprimer en 3D pour construire le module.
+Cette semaine j'ai assemblé les axes Y et X avec les moteurs 5V. Ainsi les moteurs entrainent les modules le long des axes. 
+![20230203_123156](https://user-images.githubusercontent.com/120515708/216762269-5bfb545a-1c8b-483a-86fc-bf9fe0e0b8b8.jpg) J'ai également récupéré deux support de taille différentes pour les fils qui alimentent nos moteurs afin de faire des branchements propres et que le systeme d'axe ne soit pas géné par les fils ou la carte arduino. Ensuite je me suis rendu compte que le système que nous avions pensé pour abaisser le stylo n'était pas optimal (Il allait etre compliqué à integrer systeme que nous avions). Je suis donc allé refaire des recherches sur internet, notamment sur la vidéo dont nous nous étions inspiré pour les pieces des axes. 
+J'ai retrouvé les pièces à imprimer en 3D pour construire le module et Adel les a récouper pour l'impression 3D.
+L'objectif la semaine prochaine et de finir tout les montages et de n'avoir plus que le fonctionnement des moteurs à régler.
