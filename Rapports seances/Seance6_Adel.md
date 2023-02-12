@@ -12,4 +12,4 @@ Voici un exemple avec le dessin d'une carte Arduino :
 
 ![image](https://user-images.githubusercontent.com/120515708/218082536-66b8a83d-1c7e-41e0-92b0-f283f566ffa9.png)
 
-Cependant, son code étant trop différent au mien et aux principes selon lesquelles je comptais réaliser 
+Cependant, son code étant trop différent au mien et aux principes selon lesquelles je comptais réaliser le système de mouvement des deux axes. C'est pourquoi j'ai pensé à la prochaine séance, de tenter de réaliser les mouvements du stylo et des axes par commande bluetooth et ainsi garder mon code déjà réalisé.
