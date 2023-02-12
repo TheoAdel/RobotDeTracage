@@ -1,8 +1,5 @@
 Nous avons lors de cette séance commencer à réaliser l'assemblage de toutes les pièces sur le support en bois.
 J'ai également refait tout les cablages de telle manière à ce que tout soit clairement lisible.
-On obtient le résultat suivant : 
-
-(Photo)
 
 J'ai ensuite réalisé le code permettant de synchroniser les deux moteurs de l'axe X et l'axe Y afin qu'ils fonctionnent simultanément (avant ils fonctionnaient un à un).
 
