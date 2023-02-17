@@ -1,0 +1,1 @@
+Cette semaine, j'ai finis la construction du système d'axe commandé par les moteurs. J'ai ajouté une roue au bout de l'axe X. J'ai lancé les impression 3D pour refaire le module qui premet de baisser le stylo car je n'ai pas réussis a récuperer certaines pièce qui étaient rester colé la semaine dernière.
